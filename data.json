@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "ONS",
+      "buy": "1195.6400",
+      "sell": "-"
+    },
+    {
+      "name": "Gram Altın",
+      "buy": "257.4107",
+      "sell": "254.8366"
+    },
+    {
+      "name": "Çeyrek Altın",
+      "buy": "433.8277",
+      "sell": "417.1420"
+    },
+    {
+      "name": "Yarım Altın",
+      "buy": "881.2076",
+      "sell": "831.3279"
+    },
+  ]
+}
