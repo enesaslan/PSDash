@@ -1,6 +1,4 @@
 {
-  "success": true,
-  "result": [
     {
       "name": "ONS",
       "buy": "1195.6400",
@@ -20,6 +18,5 @@
       "name": "Yarım Altın",
       "buy": "881.2076",
       "sell": "831.3279"
-    },
-  ]
+    }
 }
